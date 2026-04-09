@@ -1,4 +1,4 @@
-# Paper Reader 使用说明
+# Paper Reader 使用说明（ai写的）
 
 Paper Reader 是一个用来阅读论文 Markdown 的小工具。
 
