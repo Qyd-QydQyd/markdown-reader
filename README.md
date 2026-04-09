@@ -227,6 +227,3 @@ python md_reader/launch_reader.py
 - 先用 `launch_reader.bat`
 - 以后可以打包成 `PaperReader.exe`
 
-
-
-<img width="966" height="337" alt="image" src="https://github.com/user-attachments/assets/957a2121-e355-4ccd-9f38-3163934534a9" />
